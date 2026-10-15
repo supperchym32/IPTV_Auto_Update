@@ -16,7 +16,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/L9GFvtR8jkDnDp9HkLn1ig/1792137823/hls/vtv/
 #EXTINF:-1 tvg-id="VTV5 Tây Nguyên" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090516/f7759fd665-vtv5-t-y-nguy-n.webp" group-title="Kênh VTV", VTV5 Tây Nguyên
 https://vtvgolive-vtv02.vtvdigital.vn/23KzUt7TB7ql4Eru84_ZrA/1792137827/hls/vtv/live/vtv5tn/free/master.m3u8
 #EXTINF:-1 tvg-id="VTV6" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/cb01e1c339-vtv6.webp" group-title="Kênh VTV", VTV6
-https://live-vtv-aws.vtvdigital.vn/Mqlx6ua7ub2PUz5zcm4qpQ/1792087200/aws/vtv6_free/playlist.m3u8
+https://live-vtv-aws.vtvdigital.vn/354hwVDwZuc5eBK7I_rRkg/1792173600/aws/vtv6_free/playlist.m3u8
 #EXTINF:-1 tvg-id="VTV7" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/714cd7639c-vtv7.webp" group-title="Kênh VTV", VTV7
 https://vtvgolive-vtv02.vtvdigital.vn/vhZ_zaNYZewdYS3k0jLKkw/1792137831/hls/vtv/live/vtv7/free/master.m3u8
 #EXTINF:-1 tvg-id="VTV8" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/91d1ad9b7c-vtv8.webp" group-title="Kênh VTV", VTV8
@@ -26,7 +26,7 @@ https://vtvgolive-vtv02.vtvdigital.vn/qto77rQzeQRhoDmbViEGOw/1792137836/hls/vtv/
 #EXTINF:-1 tvg-id="VTV10" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/13687e4caf-vtv10.webp" group-title="Kênh VTV", VTV10
 https://vtvgolive-vtv02.vtvdigital.vn/vBREb3guiqHl3Wc35rexrg/1792137838/hls/vtv/live/vtv10/free/master.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Công an Nhân dân" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/AnNinhTVHD_150x902_1675158868.webp" group-title="Kênh VTV", Truyền hình Công an Nhân dân
-https://live-diaphuong-aws.vtvdigital.vn/ZmX3nixltTC_caWgm-Vk9g/1792087200/aws-dp/antv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/5Z1-w54Nw7LC18JBjQhgnA/1792173600/aws-dp/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Quốc phòng Việt Nam" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/QPVN_150x902_1675158863.webp" group-title="Kênh VTV", Truyền hình Quốc phòng Việt Nam
 https://live-diaphuong-aws.vtvdigital.vn/thCjaxQkEYMvPdnlR4rp4Q/1792087200/aws-dp/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVcab 16 - On Football HD" tvg-logo="https://img-zlr1.tv360.vn/image1/2023/04/28/09/1682650260303/bc7fe5334315_480_270.png" group-title="Kênh VTV Cab", VTVcab 16 - On Football HD
@@ -110,59 +110,59 @@ https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsIn
 #EXTINF:-1 tvg-id="Vĩnh Long 5" tvg-logo="https://img-zlr1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_480_270.png" group-title="Kênh Vĩnh Long", Vĩnh Long 5
 https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTIxMDI0MTMsInVyaSI6Ii9icGstdHYvNDIzL291dHB1dC9pbmRleC5tM3U4In0.ZmGbM7kgr5nw6caksdaWYecu_JAdAXDv652hqjBhtww&minrate=0&maxrate=12000000&uid=118.71.227.76
 #EXTINF:-1 tvg-id="Truyền hình Hà Nội 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/bdzDQczOL1-HNi1HD_150x902_1675158874.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hà Nội 1
-https://live-diaphuong-aws.vtvdigital.vn/4wNndpswZefavoNuM3SlGA/1792087200/aws-dp/hanoi1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/-ad6fYeVvXq6rUVQgLsiTA/1792173600/aws-dp/hanoi1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Hà Nội 2" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/QxWgqaBoV4-HNi2HD_150x902_1675158865.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hà Nội 2
-https://live-diaphuong-aws.vtvdigital.vn/tIFG4yOj2-ttIyS2TYwewg/1792087200/aws-dp/hanoi2tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/AJSmqJi3PA86d9r8h2wv1g/1792173600/aws-dp/hanoi2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Hưng Yên" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/HngYnTVHD_150x902_1675158887.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hưng Yên
-https://live-diaphuong-aws.vtvdigital.vn/SupZ05npZH5DwbgJ0h-63A/1792087200/aws-dp/hungyentv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/AmeqUtmiWM42gDLylSsUBQ/1792173600/aws-dp/hungyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Thanh Hóa" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/TTVHD_150x902_1675158896.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Thanh Hóa
-https://live-diaphuong-aws.vtvdigital.vn/MvNjk0XZ6O1Oj5F1wS-OsA/1792087200/aws-dp/thanhhoatv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/Vokk-KMpWSzOXHWW4-C_gA/1792173600/aws-dp/thanhhoatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Nghệ An" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/1565948242353_1675158861.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Nghệ An
-https://live-diaphuong-aws.vtvdigital.vn/mVv7KObQtVAW93RIY6XGLw/1792087200/aws-dp/ngheantv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/waXZ4eX29R4acBJ2M4SHnQ/1792173600/aws-dp/ngheantv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Phú Thọ" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/PTVHD_150x902_1675158909.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Phú Thọ
-https://live-diaphuong-aws.vtvdigital.vn/yzgY2GJiMbSYVL5HbCJLIw/1792087200/aws-dp/phuthotv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/aS6gVuhzKF3kLj1PGh65AQ/1792173600/aws-dp/phuthotv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình An Giang" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/ATVHD_150x902_1675158916.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình An Giang
-https://live-diaphuong-aws.vtvdigital.vn/Vsy2Yj66lbz3qwffVzcmbA/1792087200/aws-dp/angiangtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/joJHleLLl0pwKFmx2N2aBQ/1792173600/aws-dp/angiangtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Ninh Bình" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/NTVHD_150x903_1675158910.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Ninh Bình
-https://live-diaphuong-aws.vtvdigital.vn/CkYi7jh8A2t3Leznp5O-NQ/1792087200/aws-dp/ninhbinhtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/f8kGgYLH2yUeKvk-wuajHw/1792173600/aws-dp/ninhbinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Quảng Ninh 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260822/2026082213/MQwTcOrgo6-QTV1-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Quảng Ninh 1
-https://live-diaphuong-aws.vtvdigital.vn/7mxBvovfDPqD_Nk8JsxOpA/1792087200/aws-dp/quangninh1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/lCBk24cdY27TIU342Afm0A/1792173600/aws-dp/quangninh1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Quảng Ninh 3" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260822/2026082213/NHgfT799nA-QTV3-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Quảng Ninh 3
-https://live-diaphuong-aws.vtvdigital.vn/8tVvc60zlMD2_8dMntinAA/1792087200/aws-dp/quangninh3tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/LhtQpbMrECThBQakIz5Nrw/1792173600/aws-dp/quangninh3tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Đà Nẵng 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/9QfIszw4s7-DNRT1-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Đà Nẵng 1
-https://live-diaphuong-aws.vtvdigital.vn/IA-isNE9WknSS_ZwU1U0Uw/1792087200/aws-dp/danangtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/GSgiCqR-UGsa4v5xzzEpUQ/1792173600/aws-dp/danangtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Đồng Nai 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/3ETlQnyfim-DONGNAI1-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Đồng Nai 1
-https://live-diaphuong-aws.vtvdigital.vn/1lqPgW1PmtkHsU3gH_24hw/1792087200/aws-dp/dongnai1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/16qFfUYF4eXYdTPgMzfl4w/1792173600/aws-dp/dongnai1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Đồng Tháp 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/THT1HD_150x902_1675158896.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Đồng Tháp 1
-https://live-diaphuong-aws.vtvdigital.vn/e3WHKB9TPCO1RW7ft1apiQ/1792087200/aws-dp/dongthaptv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/g4_px_hTdXT3fhmvEAc4QA/1792173600/aws-dp/dongthaptv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Khánh Hòa" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/KTVHD_150x902_1675158888.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Khánh Hòa
-https://live-diaphuong-aws.vtvdigital.vn/8EFMXinA4AEcVGM0W3p8xQ/1792087200/aws-dp/khanhhoatv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/wO6g3bv5rDB_eUrIspiHXw/1792173600/aws-dp/khanhhoatv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Lai Châu" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/LaiChu_ON_150x901_1675158882.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Lai Châu
-https://live-diaphuong-aws.vtvdigital.vn/n7Xod5HqPx9l_Pvozze-pg/1792087200/aws-dp/laichautv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/RTD4XICDGelAQE8RE1KMqA/1792173600/aws-dp/laichautv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Tây Ninh 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260109/2026010916/ksvjJliT5U-v26.TAYNINH-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Tây Ninh 1
-https://live-diaphuong-aws.vtvdigital.vn/VC0uKWiYmwut-Gp_Oqpgig/1792087200/aws-dp/tayninhtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/MYO2etpIaolg4otrpII6Tg/1792173600/aws-dp/tayninhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Thái Nguyên" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/TN1HD_150x902_1675158909.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Thái Nguyên
-https://live-diaphuong-aws.vtvdigital.vn/H6lNj2w2R6w5TclhabU4GA/1792087200/aws-dp/thainguyentv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/FVAY6_N-xwG1bHrruVXhAg/1792173600/aws-dp/thainguyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="Đài PTTH tỉnh Thừa Thiên Huế" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/9Itnh2Rktb-Logo-HUETV-720x240.webp" group-title="Kênh thiết yếu và địa phương", Đài PTTH tỉnh Thừa Thiên Huế
-https://live-diaphuong-aws.vtvdigital.vn/HrERUNAWqATWZg1AypYd7g/1792087200/aws-dp/huetv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/c4Ho4x72thcFPZFOHgZq3Q/1792173600/aws-dp/huetv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Cà Mau" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/camau1.jpg" group-title="Kênh thiết yếu và địa phương", Truyền hình Cà Mau
-https://live-diaphuong-aws.vtvdigital.vn/oARMgJnUbHasdLGujQO9Hw/1792087200/aws-dp/camautv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/ILx7y4L5hdPHFbiOBQKaBg/1792173600/aws-dp/camautv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Đắk Lắk" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/daklack1.jpg" group-title="Kênh thiết yếu và địa phương", Truyền hình Đắk Lắk
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Hải Phòng" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/ULdMAR50e1-Logo-HAIPHONG-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hải Phòng
-https://live-diaphuong-aws.vtvdigital.vn/vsAiVV36HAkEiGvi0TW6cA/1792087200/aws-dp/haiphongtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/rOujWV0cAR7fEyupSnOnKQ/1792173600/aws-dp/haiphongtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Điện Biên" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/dienbien1.jpg" group-title="Kênh thiết yếu và địa phương", Truyền hình Điện Biên
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Bắc Ninh" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250908/2025090816/9z0Q7YykKF-BTV-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Bắc Ninh
-https://live-diaphuong-aws.vtvdigital.vn/9sexZk-dMmuPnzrT2ElgKw/1792087200/aws-dp/bacninhtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/GKnlgEg9AOdgeM_hAvnRmQ/1792173600/aws-dp/bacninhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Lâm Đồng" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/1567243120709_1675158878.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Lâm Đồng
-https://live-diaphuong-aws.vtvdigital.vn/KfEskfxCLgWUW7wuGzWuOg/1792087200/aws-dp/lamdongtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/Q8fpovg9h4cS9d2hjPqYyw/1792173600/aws-dp/lamdongtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Lạng Sơn" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260821/2026082109/JWXJSDn65e-LOGO-KENHLangSon.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Lạng Sơn
-https://live-diaphuong-aws.vtvdigital.vn/OQNvcPosVbJm_78N5W4TYg/1792087200/aws-dp/langsontv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/3vZHVEsrP5iCBaGh2FVDfA/1792173600/aws-dp/langsontv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Cần Thơ 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260205/2026020509/yQfydJtD0D-CANTHO1-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Cần Thơ 1
-https://live-diaphuong-aws.vtvdigital.vn/4x8hi2GTY5zkq2nodLpb8Q/1792087200/aws-dp/cantho1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/1YsFuO7kWQF6kITf31D9GA/1792173600/aws-dp/cantho1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình HTV9" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260911/2026091104/0dcd065875-HTV9-Logo.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình HTV9
-https://live-diaphuong-aws.vtvdigital.vn/WkUd6ARi-j2ecuL7jvkwOA/1792087200/aws-dp/hcmtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/9BLlPfH5jss7oFI2eAJhJA/1792173600/aws-dp/hcmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Quảng Ngãi 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/ftjSJ6ExJQ-QN1-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Quảng Ngãi 1
 https://vtvgolive-ssaimh.vtvdigital.vn/xv8vbjfTULsb9T1b9nfgRg/1792102347/manifest/dp-quangngai1tv/master.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Sơn La" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250306/2025030611/logo-stv.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Sơn La
@@ -172,7 +172,7 @@ https://vtvgoliveapp1-aws-plus-tn.vtvdigital.vn/aws-sk/asiad_1_paid/playlist.m3u
 #EXTINF:-1 tvg-id="Truyền hình Gia Lai" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/RrKscRULwz-GTV-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Gia Lai
 https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Quảng Trị" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/f3z6Mqzawq-QUANGTRI-LOGO-KENHVTVgo-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Quảng Trị
-https://live-diaphuong-aws.vtvdigital.vn/uH8MJIC9x6tBjiR1OIIlTA/1792087200/aws-dp/quangtritv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/EeI4LzsiiPdBJ5NzuBwqCA/1792173600/aws-dp/quangtritv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Lào Cai" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/aocai1.jpg" group-title="Kênh thiết yếu và địa phương", Truyền hình Lào Cai
 https://vtvgolive-vtclc.vtvdigital.vn/Z5FJ7ZiGqc7w9cVa_YS7TA/1792095160/media/live/42297BC521EC911B8934699E/index.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Cao Bằng" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/bp3OM91imT-Logo-CAOBANG-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Cao Bằng
