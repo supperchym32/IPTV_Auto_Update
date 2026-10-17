@@ -1,3 +1,5 @@
+# --- START OF FILE core_scrapers.py ---
+
 import time
 import json
 import re
@@ -702,7 +704,9 @@ def _tv360_extract_dom_loop(driver, tv360_ip, tv360_proto, logger):
             for (var j = 0; j < links.length; j++) {
                 var href = links[j].href;
                 if (href.includes('/tv/') && href.includes('ch=')) {
-                    if (links[j].querySelector('.css-1hssde8')) continue; 
+                    // FIX: Lọc kênh VIP dựa trên cấu trúc hình ảnh thay vì class hash sinh tự động (tránh lỗi khi UI TV360 cập nhật)
+                    if (links[j].querySelectorAll('img').length > 1 || links[j].querySelector('img[alt="icon"]')) continue; 
+                    
                     var name = links[j].getAttribute('aria-label') || links[j].innerText.trim();
                     var img = links[j].querySelector('img');
                     var logo = '';
