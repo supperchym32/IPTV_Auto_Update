@@ -1,32 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="VTV1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/df56581896-vtv1.webp" group-title="Kênh VTV", VTV1
-https://vtvgolive-vtv02.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/hls/vtv/live/vtv1/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV2" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/ed6bfd7f53-vtv2.webp" group-title="Kênh VTV", VTV2
-https://vtvgolive-vtv02.vtvdigital.vn/C_I7TQXkZ4jY8VWu-KFF9Q/1793849925/hls/vtv/live/vtv2/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV3" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/c725fae9ac-vtv3.webp" group-title="Kênh VTV", VTV3
-https://vtvgolive-vtv02.vtvdigital.vn/gRgcRCBq3tcNs303HgSTdA/1793849928/hls/vtv/live/vtv3/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV4" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/c08cf70a49-vtv4.webp" group-title="Kênh VTV", VTV4
-https://vtvgolive-vtv02.vtvdigital.vn/DdDs5qKdB5-M4Q20RMaHsw/1793849930/hls/vtv/live/vtv4/free/master.m3u8
 #EXTINF:-1 tvg-id="VIETNAM TODAY" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/aa0167e5f6-vietnam-today.webp" group-title="Kênh VTV", VIETNAM TODAY
 https://vietnamtoday.vtvdigital.vn/BstegGKZLsPwpQ0_p1hs0Q/1793806732/stream/playlist.m3u8
-#EXTINF:-1 tvg-id="VTV5" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/fdf2557ea9-vtv5.webp" group-title="Kênh VTV", VTV5
-https://vtvgolive-vtv02.vtvdigital.vn/616IDsiZCw9ZrlVvT5kqmw/1793849934/hls/vtv/live/vtv5/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV5 Tây Nam Bộ" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/eeb81bb42b-vtv5-ta-y-nam-bo.webp" group-title="Kênh VTV", VTV5 Tây Nam Bộ
-https://vtvgolive-vtv02.vtvdigital.vn/avT8FOts3N_cgtLZwosyKg/1793849936/hls/vtv/live/vtv5tnb/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV5 Tây Nguyên" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090516/f7759fd665-vtv5-t-y-nguy-n.webp" group-title="Kênh VTV", VTV5 Tây Nguyên
-https://vtvgolive-vtv02.vtvdigital.vn/8wpEUDuSEM5yVTepRypH_Q/1793849938/hls/vtv/live/vtv5tn/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV6" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/cb01e1c339-vtv6.webp" group-title="Kênh VTV", VTV6
-https://vtvgolive-vtv02.vtvdigital.vn/lPUSQgSDAn6eH6zN82IKVQ/1793849940/hls/vtv/live/vtv6/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV7" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/714cd7639c-vtv7.webp" group-title="Kênh VTV", VTV7
-https://vtvgolive-vtv02.vtvdigital.vn/YxjHtMVJcdCFrb7_BG5cug/1793849943/hls/vtv/live/vtv7/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV8" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/91d1ad9b7c-vtv8.webp" group-title="Kênh VTV", VTV8
-https://vtvgolive-vtv02.vtvdigital.vn/aAOp11vEDqQtmq1G41td4A/1793849945/hls/vtv/live/vtv8/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/a23d3e69a3-vtv9.webp" group-title="Kênh VTV", VTV9
-https://vtvgolive-vtv02.vtvdigital.vn/HUo7SBSxrk4N95gtE3RbTQ/1793849948/hls/vtv/live/vtv9/free/master.m3u8
-#EXTINF:-1 tvg-id="VTV10" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/13687e4caf-vtv10.webp" group-title="Kênh VTV", VTV10
-https://vtvgolive-vtv02.vtvdigital.vn/3CYRiEXHzyShyHbjh9C-6A/1793849950/hls/vtv/live/vtv10/free/master.m3u8
-#EXTINF:-1 tvg-id="VTVgo · Phim truyện" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/fda07157-8a3c-40b1-9dd7-4af2b3f3b2bc-VTVgo-Phim-VFC150x90.png" group-title="Kênh nội dung VTVgo", VTVgo · Phim truyện
-# Lỗi: Lỗi toàn tập | Link test: https://vtvgo.vn/channel/vtvgo-fast-phim-truyen
 #EXTINF:-1 tvg-id="VTVgo · Phim tài liệu" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/083b12e1-ce64-4528-8933-725937595083-VTVgo-Phim-Tai-Lieu150x90.png" group-title="Kênh nội dung VTVgo", VTVgo · Phim tài liệu
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-phim-tai-lieu/master.m3u8
 #EXTINF:-1 tvg-id="VTVgo · Ca nhạc" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/ed4d3183-73e6-4bc3-89fa-ef4a25ae3e8b-VTVgo-Ca-Nhac150x90.png" group-title="Kênh nội dung VTVgo", VTVgo · Ca nhạc
@@ -39,76 +13,100 @@ https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-du-lich-kham-pha/ma
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-suc-khoe-nguoi-gia/master.m3u8
 #EXTINF:-1 tvg-id="VTVgo · Thiếu nhi" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20261022/2026102204/af4a5db5-15f7-4c91-92db-025d79003d06-VTVgo-Thieu-Nhi-150x90.png" group-title="Kênh nội dung VTVgo", VTVgo · Thiếu nhi
 https://fast-channel-stg.vtvdigital.vn/playout/channels/auto-thieu-nhi/master.m3u8
-#EXTINF:-1 tvg-id="Truyền hình Công an Nhân dân" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/AnNinhTVHD_150x902_1675158868.webp" group-title="Kênh VTV", Truyền hình Công an Nhân dân
-https://live-diaphuong-aws.vtvdigital.vn/d0lY3UbXS4gduO_ktvx65g/1793815200/aws-dp/antv/playlist.m3u8
-#EXTINF:-1 tvg-id="Truyền hình Quốc phòng Việt Nam" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/QPVN_150x902_1675158863.webp" group-title="Kênh VTV", Truyền hình Quốc phòng Việt Nam
-https://live-diaphuong-aws.vtvdigital.vn/K5rG54dufGaVnrDk9bxECQ/1793815200/aws-dp/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-id="VTVcab 1 - Vie Giải Trí HD" tvg-logo="https://img-evg1.tv360.vn/image1/2024/01/02/23/1704211446236/d1503bd3566e_480_270.png" group-title="Kênh VTV Cab", VTVcab 1 - Vie Giải Trí HD
-https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1MjgsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.TTPBwwA7YGxl0IvjS4yRPDPNabVUJ814aKpC3Ou7kcs&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/211/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2NjMsInVyaSI6Ii9icGstdHYvMjExL291dHB1dC9pbmRleC5tM3U4In0.m9Kb8C2ZBtswRcloolE2Ksh9oMvEoRXQwWXZ7Uynqy8&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 2 - Phim Việt HD" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/07/16/1631007494845/516efb158133_480_270.png" group-title="Kênh VTV Cab", VTVcab 2 - Phim Việt HD
-https://lsm-g11.tv360.vn:18443/348.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5RTDJvS2z2Uz/nUFXmcL73f3GuJNxPkT341y0E6ze+XsGjWRzlhXeJL6Ubv9WI4oL38wODyBn+P7lwzccK4fEJV7eSZKYdRRkRrtbUwJQzqZmPSvaahcv/fANxqkn2b2DJYlC9AJARGgKJhyllaxqR8UpwQ+ylbgJoam6d/bNTrLQ==&uid=104.28.254.73
+https://lsm-g11.tv360.vn:18443/348.m3u8?AdaptiveType=HLS&VOD_RequestID=jKQSNY7t2gBBBDpQnm9ycYEZmIkztQgIDouHhU4EV5QFFaN41v28Qa23YxqZ/IoJZ8gTD15AX/HudsouDO1d9NAemSlAblZiDsJIc3aPm1Ffnr48FeuL34nP0KLIzahnl2e+Z8quKF2F+25/ChXeP/p9Qo0gj46mlC1icECeDCjtLrV6TMz6yNYLkXtqNojcCBF9XCh8gQUNwPreAJQSKA==&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab10 - On Cine HD" tvg-logo="https://img-evg1.tv360.vn/image1/2021/09/07/17/1631009339636/95e9bc61877c_480_270.png" group-title="Kênh VTV Cab", VTVcab10 - On Cine HD
-https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1MzcsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.JI4Qsa5OlAww_98gUd0J-4OktFlb91Gm3h3XcS3G6QM&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/226/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2NzIsInVyaSI6Ii9icGstdHYvMjI2L291dHB1dC9pbmRleC5tM3U4In0.mmLmm3sZKlK9qXWtGq3jROsuyQvEKyRzC2hf1564FYA&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab19 – Vie Dramas" tvg-logo="https://img-evg1.tv360.vn/image1/2024/01/03/07/1704241415128/050934936855_480_270.png" group-title="Kênh VTV Cab", VTVcab19 – Vie Dramas
-https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NDAsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.YtQbLMbd3B25Ozm1q5Yfp_0FhdcJP39x6X-GS57SCfo&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/339/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2NzUsInVyaSI6Ii9icGstdHYvMzM5L291dHB1dC9pbmRleC5tM3U4In0.rC2_D3msefRi3Hwsl2NfOcM-0swxl23NiZoVKDNfB0o&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 8 Bibi SD" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/08/1689731979485/df22eff3c261_480_270.png" group-title="Kênh VTV Cab", VTVcab 8 Bibi SD
-https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NDMsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.eYWay312t9yIJ46G0Kj-unD3ECyutGM2-OWI1ymv4OY&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/263/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2ODEsInVyaSI6Ii9icGstdHYvMjYzL291dHB1dC9pbmRleC5tM3U4In0.7zVx984Udp6zlvSG65pfClA615EyXkCSB3viniV86Uk&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 21- Cartoon Kids HD" tvg-logo="https://img-evg1.tv360.vn/image1/2025/07/21/14/1753083917555/313a5cc8943c_480_270.png" group-title="Kênh VTV Cab", VTVcab 21- Cartoon Kids HD
-https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NDksInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.AX0jWpKxZIu92AIBtCHy7bFBs9iC24MOd2HgDEofSbk&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/234/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2ODQsInVyaSI6Ii9icGstdHYvMjM0L291dHB1dC9pbmRleC5tM3U4In0.bBW_LJ_qVJx-BTkrr29DOE5KIGOqDVH2le1R0HreDYg&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vtvcab 4 – On Movies" tvg-logo="https://img-evg1.tv360.vn/image1/2023/02/16/16/1676540062912/f21d4df5b545_480_270.png" group-title="Kênh VTV Cab", Vtvcab 4 – On Movies
-https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NTIsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.8GbEiRQjo33dyqX3EDDJDnmekqPIcGfP90Q7M0T9FxM&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/346/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2ODcsInVyaSI6Ii9icGstdHYvMzQ2L291dHB1dC9pbmRleC5tM3U4In0.17Cs7Wy6lfm0xjVRVENzcEr7p1Pgjybr2LZh0cowRzU&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 5 - E Channel HD" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/15/1689755306897/935d4d4cde0d_480_270.png" group-title="Kênh VTV Cab", VTVcab 5 - E Channel HD
-https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NTUsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.Shn0dBEu48KyH1DeTUNrQ-LmpgHnix8Y58aRo7BVPH4&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/212/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2OTMsInVyaSI6Ii9icGstdHYvMjEyL291dHB1dC9pbmRleC5tM3U4In0.YGi3a5XkLZ-3xj9Qo_8rKKl7ucNbVAhl9uNZTBfJnTM&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 12 - StyleTV HD" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732221934/7138a2e2ade1_480_270.png" group-title="Kênh VTV Cab", VTVcab 12 - StyleTV HD
-https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NjEsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.xlzZ7Uiubxmow35ERu9-OdINfL407vuyO9L6r00CNmE&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/219/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2OTYsInVyaSI6Ii9icGstdHYvMjE5L291dHB1dC9pbmRleC5tM3U4In0.K8qNB2lvddxskx4S9BFSf2z0gk4y6002-X4tBy8f8R4&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab15 – On Music" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/20/10/1689822524259/0f3a4d1ebfaf_480_270.png" group-title="Kênh VTV Cab", VTVcab15 – On Music
-https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NjcsInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.BvI5Ug4lSVtR1S_d1DifIKFz5NcKsGClfieQz-cUX5U&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/220/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2OTksInVyaSI6Ii9icGstdHYvMjIwL291dHB1dC9pbmRleC5tM3U4In0.bkMBOJlMw_OXzm2xWLHeouzO-6mg4r9FB8rpB4EJmSk&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vtvcab17 – Trending TV" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/16/1689759248732/ebe66c03d7f6_480_270.png" group-title="Kênh VTV Cab", Vtvcab17 – Trending TV
-https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NzAsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.MHsYKZBjHLaXv0L06p3SrtazMvo3TxQXXzzxyAoWF5w&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/350/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU3MDUsInVyaSI6Ii9icGstdHYvMzUwL291dHB1dC9pbmRleC5tM3U4In0.Ta-yDhaSsBUmi7DfY_h-g2n3jyz8u9c15WzYRE7Qa9A&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 20 - V Family HD" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732486538/904f55c861b5_480_270.png" group-title="Kênh VTV Cab", VTVcab 20 - V Family HD
-https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NzYsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.oULBEY0pJ6flb6LuaDYMWt_PtWSuthXrEeL9YNKL22k&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/351/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU3MDgsInVyaSI6Ii9icGstdHYvMzUxL291dHB1dC9pbmRleC5tM3U4In0.1emEF0SgvqCWKd3nTQU87BYzw_xnbtWnqswO2dnjr48&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 22 - Life TV HD" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732652862/f124f55c3587_480_270.png" group-title="Kênh VTV Cab", VTVcab 22 - Life TV HD
-https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1NzksInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.8QxahCo5Ikq52YZuy_RLAdKImQzEPmUO8iln99Y7o_w&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/347/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU3MTEsInVyaSI6Ii9icGstdHYvMzQ3L291dHB1dC9pbmRleC5tM3U4In0.AfTKPSzVgystyIqpZkwZZeDnRAEmoorzeGwFehlUA9g&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="VTVcab 9 - InfoTV HD" tvg-logo="https://img-evg1.tv360.vn/image1/2023/07/19/09/1689732099410/a13853e5de55_480_270.png" group-title="Kênh VTV Cab", VTVcab 9 - InfoTV HD
-https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ2OTMsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.WTnV7ziHMDA3PdXO1VegzQ8qJ3Sd7nNZD5uPZqgQiBg&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/349/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU3MTcsInVyaSI6Ii9icGstdHYvMzQ5L291dHB1dC9pbmRleC5tM3U4In0.1RNJDFoqxUFAWho1ZAILB2Jvt3zzVZcfhmGBTSlicdM&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="O2TV" tvg-logo="https://img-evg1.tv360.vn/image1/2024/08/06/23/1722961565788/ba3ae8e7865d_480_270.png" group-title="Kênh VTV Cab", O2TV
-https://rr1-ateme.tv360.vn/live/eds/218/HLS_Clean_MHL_6s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzIxOC9ITFNfQ2xlYW5fTUhMXzZzLyIsImV4cCI6MTc5MzgxNDY5OX0.sq3HEZO272vbTqnoNfOIufEq_etrPiOSL5IzQxWqzErwrFdgMOghjsdebBCdqgbwr_gyQxib-7iL3UqihaJFKA&screen=MHL&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/218/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU3MjAsInVyaSI6Ii9icGstdHYvMjE4L291dHB1dC9pbmRleC5tM3U4In0.LzLkFsn6omGIQjtx2fNKSoleu4bUMRHuoFMCSK0GlnY&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTV1" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823417472/075a37be16f6_480_270.png" group-title="Kênh HTV", HTV1
-https://rr1-ateme.tv360.vn/live/eds/441/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0MS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5MzgxNDQxMX0.bgcmRutabdHrZwOg4UGRPEo_UmS1eygy2-B0SBnOwoJTSa_ePfln2K7q8LVaQqPx3DYNDBbLeVBBopmUdC-6lw&screen=MHL&uid=104.28.254.73
+https://rr1-ateme.tv360.vn/live/eds/441/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0MS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5Mzg2NTUzN30.5_ktBRurSIsiGXmTUNIxMynymWaejT0u39ktBop6X5vUFHvv0nOb_2p7j9ndnppMkZO3fks4KQh5aVcWvS6oug&screen=MHL&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTV2" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823424622/fd4c849487f6_480_270.png" group-title="Kênh HTV", HTV2
-https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfMnMvIiwiZXhwIjoxNzkzODE0NDE0fQ.sMKE1hh4U6bFJ-z3TYI4KQ_KDgsgiW61_IYSBEMJ0Umtrv5pGdGdiJaRutuUMH2qPvSQnUqHowAOhwTMj2vCDg&screen=MHL&uid=104.28.254.73
+https://rr1-ateme.tv360.vn/live/eds/54/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzU0L0hMU19DbGVhbl9NSExfMnMvIiwiZXhwIjoxNzkzODY1NTQzfQ.RHyatkJPZxDo8WjIyd6yuj5xuUa9X43z9_CGR_KsfGxfanc1k-N14O70gjwFK3kvbPXREKyczTiPMGDbKhpvuA&screen=MHL&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTV3" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823498725/2e64140da5c1_480_270.png" group-title="Kênh HTV", HTV3
-https://rr1-ateme.tv360.vn/live/eds/442/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0Mi9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5MzgxNDQxN30.n3lPqfWt-fA4FMgq_ERqq-875nPjGXJgsUJWWvvEOJpqVYYD2_53WTu1PlED0fYySqVck4e5Ej4W11DRJgCFmg&screen=MHL&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/442/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1NDYsInVyaSI6Ii9icGstdHYvNDQyL291dHB1dC9pbmRleC5tM3U4In0.k8BuEaI8tiNeH3FhX9pRpV-Wz85cW4D8vZhx4kr1WcU&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTV4" tvg-logo="https://img-evg1.tv360.vn/image1/2026/04/20/15/1776673483732/71e6c03ac958_480_270.png" group-title="Kênh HTV", HTV4
-https://rr1-ateme.tv360.vn/live/eds/443443/HLS_Clean_MHL_4s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQ0MzQ0My9ITFNfQ2xlYW5fTUhMXzRzLyIsImV4cCI6MTc5MzgxNDQyM30.LwUbIMNFsZV7RGFfdQpMPabvExu3AQYN0OurwVxrqKewlVZZJtV6l3wvc4F5HO20KodIhQki0rCHVHJ7kUesGw&screen=MHL&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/443/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1NDksInVyaSI6Ii9icGstdHYvNDQzL291dHB1dC9pbmRleC5tM3U4In0.AjhUvbSAir0FRtRBZHjE0ti7_3eWWAnQ_8pMTz6TlqU&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTV7 HD" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822381421/47d2615f6141_480_270.png" group-title="Kênh HTV", HTV7 HD
-https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ0MjYsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.8LuXFc4cRwsQYXMjGDdWDf55GI3Xbzo5LnonAvL7fiw&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/157/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1NTUsInVyaSI6Ii9icGstdHYvMTU3L291dHB1dC9pbmRleC5tM3U4In0.6uoq_37aVyt_qosYiUeV7RD9Uu-aZaP6UxOy_-tnNt0&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTV9 HD" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600822390705/a9fc59138d3b_480_270.png" group-title="Kênh HTV", HTV9 HD
-https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ0MjksInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.BtqOMoyHzRv34Q9C-FJ7uOvsPoVFSWTyH9PjeTkqr_M&minrate=0&maxrate=12000000&uid=104.28.254.73
-#EXTINF:-1 tvg-id="HTV Thể Thao" tvg-logo="https://img-evg1.tv360.vn/image1/2023/04/03/16/1680514594557/ab2557f0b015_480_270.png" group-title="Kênh HTV", HTV Thể Thao
+https://fo-hlc.tv360.vn/bpk-tv/158/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1NTgsInVyaSI6Ii9icGstdHYvMTU4L291dHB1dC9pbmRleC5tM3U4In0.zxTK9NdZXqbnBnPMdAjnubi1DpqW2UFMyv9vv00J05Y&minrate=0&maxrate=12000000&uid=118.70.212.110
+#EXTINF:-1 tvg-id="HTV Thể Thao" tvg-logo="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" group-title="Kênh HTV", HTV Thể Thao
 # Lỗi: Lỗi toàn tập | Link test: https://tv360.vn/tv/htv-the-thao?ch=195&col=5&sect=LIVE&page=home_live
 #EXTINF:-1 tvg-id="HTVC gia đình" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082347056/e8ce9503d96a_480_270.png" group-title="Kênh HTV", HTVC gia đình
-https://rr1-ateme.tv360.vn/live/eds/398/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM5OC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5MzgxNDUwN30.97PmUQ5B6XqkSS5lTTeCZsciV1SSSQ70bInswBi4EljHRYjcp_UTjSy8w_0YnHKJPzSl3L-H9Mt_lOdKnjUXAg&screen=MHL&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/398/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2MzYsInVyaSI6Ii9icGstdHYvMzk4L291dHB1dC9pbmRleC5tM3U4In0.x3bbR00iwBcVrJ9H9b334FxDrw_VlJGlQ26e9OKRllA&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTVC phụ Nữ" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/1600823432136/86f5cc6afcf6_480_270.png" group-title="Kênh HTV", HTVC phụ Nữ
-https://fo-hlc.tv360.vn/bpk-tv/420/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1MTAsInVyaSI6Ii9icGstdHYvNDIwL291dHB1dC9pbmRleC5tM3U4In0.McorQMlo69FAHdCLsV5V7RfPsDy7Yb9O3jZooAG87D4&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://rr1-ateme.tv360.vn/live/eds/420/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQyMC9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5Mzg2NTYzOX0.ebVJK2bbgR1Gp0_Dagpo6sLAWCtwST3vkM20DBvUSK0qGAA1zcNEYo0mMY6GF56TcuHjeb0VyK_oec5nGDWgjw&screen=MHL&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTVC thuần việt" tvg-logo="https://img-evg1.tv360.vn/image1/2020_09_23/160082344024/e0032bc647da_480_270.png" group-title="Kênh HTV", HTVC thuần việt
-https://fo-hlc.tv360.vn/bpk-tv/160/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1MTMsInVyaSI6Ii9icGstdHYvMTYwL291dHB1dC9pbmRleC5tM3U4In0.q8288dbUh1eV-S0w7aSu_ZjmxLmNl62PUgFwpjz-Htk&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/160/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2NDIsInVyaSI6Ii9icGstdHYvMTYwL291dHB1dC9pbmRleC5tM3U4In0._gJSeR-kiB2YjTNk3yEQMFXZbRg7Pi-LjNwTNK-Abqw&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTVC phim truyện HD" tvg-logo="https://img-evg1.tv360.vn/image1/2021/07/01/15/1625129239161/48401c7a9ce3_480_270.png" group-title="Kênh HTV", HTVC phim truyện HD
-https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ1MTYsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.gJPdznhJU_f8xvg4igtSWXQWpqXJyudBwqTbuVHBxC8&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/159/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2NDgsInVyaSI6Ii9icGstdHYvMTU5L291dHB1dC9pbmRleC5tM3U4In0.44dHX00BqBmWAHMMcTisxv9_vJHOF9NBYLLL6eRDYz8&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTVC+ Channel B" tvg-logo="https://img-evg1.tv360.vn/image1/2020/12/25/10/160886616399/c002b68d052e_480_270.png" group-title="Kênh HTV", HTVC+ Channel B
-https://rr1-ateme.tv360.vn/live/eds/419/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzQxOS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5MzgxNDUyMn0.7XAWAD-tTQnmbE_ylQhWOSaLV2Tqy-eMrgNjlOlyY3J299Y4Ra584Jkb2maqO957zQUB5J1qD54C11nCCKf0kA&screen=MHL&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/419/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU2NTQsInVyaSI6Ii9icGstdHYvNDE5L291dHB1dC9pbmRleC5tM3U4In0.l_-cjm9qZdLbOyjy2JwXh4Mx8r2WPL7u0bEJCPig3cg&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="HTVC du lịch & cuộc sống" tvg-logo="https://img-evg1.tv360.vn/image1/2020/12/25/08/1608860643587/bb01290ccde1_480_270.png" group-title="Kênh HTV", HTVC du lịch & cuộc sống
-https://rr1-ateme.tv360.vn/live/eds/399/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM5OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5MzgxNDUyNX0.uyCcCsCimaUHYD_lj_8wmAlSjJYEIusJUBLZkyX_cbyLAKcYOpDvsrGcRuOP08W5YfMByXZSEev9lTun4ttubw&screen=MHL&uid=104.28.254.73
+https://rr1-ateme.tv360.vn/live/eds/399/HLS_Clean_MHL_2s/index.m3u8?cdntoken=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCJ9.eyJwYXRoIjoiL2xpdmUvZWRzLzM5OS9ITFNfQ2xlYW5fTUhMXzJzLyIsImV4cCI6MTc5Mzg2NTY2MH0.6NjMTEbnqgdEFyLN7HiMQ-UZkRhsyd6X34EXD2-yaxCBW0U_Dk7Ojv0cV7XxVkYtAd45juggRaLU_UZfG0xlfg&screen=MHL&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vĩnh Long 1" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/17/1728296900530/38c6e7b9cb86_480_270.png" group-title="Kênh Vĩnh Long", Vĩnh Long 1
-https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQzOTAsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.slonQoBaH16vOxzhqUq9fZxwKWs2SU7lSMeIVQQkwMY&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/252/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1MTMsInVyaSI6Ii9icGstdHYvMjUyL291dHB1dC9pbmRleC5tM3U4In0.nwp6TSQPT7DTLsAMUyMmDV66nvZwrnhRYNeRQc4fgPY&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vĩnh Long 2" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728294117402/52d6fd6199a5_480_270.png" group-title="Kênh Vĩnh Long", Vĩnh Long 2
-https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQzOTYsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.SB-CfR_0HMm2Q5-AxhOoe1s6H25KCQhWm6CPC8gQtpw&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/249/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1MjIsInVyaSI6Ii9icGstdHYvMjQ5L291dHB1dC9pbmRleC5tM3U4In0.fAiRjBzTbODOytsl-Zi8M3o2IN40zFv1wNad4rbUfYE&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vĩnh Long 3" tvg-logo="https://img-evg1.tv360.vn/image1/2025/04/17/22/1744905347918/48d1f6b96d4b_480_270.png" group-title="Kênh Vĩnh Long", Vĩnh Long 3
-https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQzOTksInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.A1s_6QXRJZZhSs6lThdxUaEkJjJzp5cLHFtZdPWMm-0&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/250/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1MjUsInVyaSI6Ii9icGstdHYvMjUwL291dHB1dC9pbmRleC5tM3U4In0.1ikPU4MyA1lkjbHrMFZ3AFy7iSQVVDjTsnnwp7yjpas&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vĩnh Long 4" tvg-logo="https://img-evg1.tv360.vn/image1/2024/10/07/16/1728294229199/5f70465aa342_480_270.png" group-title="Kênh Vĩnh Long", Vĩnh Long 4
-https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ0MDIsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.TD3tqtLhrU8pbM40dWIsIY1TOyg8_lBYhqk2p1eGs6Y&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/251/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1MzEsInVyaSI6Ii9icGstdHYvMjUxL291dHB1dC9pbmRleC5tM3U4In0.LNpABlgnX7pbP5TctEWbWKAjoBmeEPZ2Nd8nLcBhGHk&minrate=0&maxrate=12000000&uid=118.70.212.110
 #EXTINF:-1 tvg-id="Vĩnh Long 5" tvg-logo="https://img-evg1.tv360.vn/image1/2025/09/26/10/1758857744376/434dd0684f49_480_270.png" group-title="Kênh Vĩnh Long", Vĩnh Long 5
-https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4MTQ0MDgsInVyaSI6Ii9icGstdHYvNDIzL291dHB1dC9pbmRleC5tM3U4In0.X-3Ba4kXQvey9Kp4uTVxvX0M90ATa9AbJSk8T59u2vg&minrate=0&maxrate=12000000&uid=104.28.254.73
+https://fo-hlc.tv360.vn/bpk-tv/423/output/index.m3u8?auth=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJtZXRob2QiOiJHRVQiLCJleHAiOjE3OTM4NjU1MzQsInVyaSI6Ii9icGstdHYvNDIzL291dHB1dC9pbmRleC5tM3U4In0.ilNwkJmw7w9-YfhvBt8su_ImGmJatWmaDvuwKe3h_io&minrate=0&maxrate=12000000&uid=118.70.212.110
+#EXTINF:-1 tvg-id="VTV1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/df56581896-vtv1.webp" group-title="Địa phương", VTV1
+https://vtvgolive-vtv02.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/hls/vtv/live/vtv1/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV2" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/ed6bfd7f53-vtv2.webp" group-title="Địa phương", VTV2
+https://vtvgolive-vtv02.vtvdigital.vn/Vnb7FlFzx_2C29d9Ia_R0Q/1793897020/hls/vtv/live/vtv2/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV3" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/c725fae9ac-vtv3.webp" group-title="Địa phương", VTV3
+https://vtvgolive-vtv02.vtvdigital.vn/md3IaWer9USR2NjWetmGhQ/1793897062/hls/vtv/live/vtv3/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV4" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/c08cf70a49-vtv4.webp" group-title="Địa phương", VTV4
+https://vtvgolive-vtv02.vtvdigital.vn/jX6MveZU7u9us4sXTirGoQ/1793897085/hls/vtv/live/vtv4/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV5" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/fdf2557ea9-vtv5.webp" group-title="Địa phương", VTV5
+https://vtvgolive-vtv02.vtvdigital.vn/i19vpYMZjlzARNKFQJyy7Q/1793897109/hls/vtv/live/vtv5/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV5 Tây Nam Bộ" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/eeb81bb42b-vtv5-ta-y-nam-bo.webp" group-title="Địa phương", VTV5 Tây Nam Bộ
+https://vtvgolive-vtv02.vtvdigital.vn/NCq1BAfzaRgHTa_ciAcnsg/1793897121/hls/vtv/live/vtv5tnb/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV5 Tây Nguyên" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090516/f7759fd665-vtv5-t-y-nguy-n.webp" group-title="Địa phương", VTV5 Tây Nguyên
+https://vtvgolive-vtv02.vtvdigital.vn/FL5n3IqPrN3_bpAaSRicHQ/1793897133/hls/vtv/live/vtv5tn/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV6" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/cb01e1c339-vtv6.webp" group-title="Địa phương", VTV6
+https://vtvgolive-vtv02.vtvdigital.vn/mKbsz8PjUO2kqpBhbB1J4Q/1793897150/hls/vtv/live/vtv6/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV7" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/714cd7639c-vtv7.webp" group-title="Địa phương", VTV7
+https://vtvgolive-vtv02.vtvdigital.vn/Sb3SIWYXLOZGgLqwdNZkGQ/1793897162/hls/vtv/live/vtv7/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV8" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/91d1ad9b7c-vtv8.webp" group-title="Địa phương", VTV8
+https://vtvgolive-vtv02.vtvdigital.vn/oRU1TqOH_heCZloCkrzAMQ/1793897172/hls/vtv/live/vtv8/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV9" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/a23d3e69a3-vtv9.webp" group-title="Địa phương", VTV9
+https://vtvgolive-vtv02.vtvdigital.vn/X7dGITU51EOJeijX4IpJRA/1793897185/hls/vtv/live/vtv9/free/master.m3u8
+#EXTINF:-1 tvg-id="VTV10" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/13687e4caf-vtv10.webp" group-title="Địa phương", VTV10
+https://vtvgolive-vtv02.vtvdigital.vn/b-R6oKNkNBmg37Bq70ugDw/1793897198/hls/vtv/live/vtv10/free/master.m3u8
+#EXTINF:-1 tvg-id="Truyền hình Công an Nhân dân" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/AnNinhTVHD_150x902_1675158868.webp" group-title="Địa phương", Truyền hình Công an Nhân dân
+https://live-diaphuong-aws.vtvdigital.vn/d0lY3UbXS4gduO_ktvx65g/1793815200/aws-dp/antv/playlist.m3u8
+#EXTINF:-1 tvg-id="Truyền hình Quốc phòng Việt Nam" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/logo/QPVN_150x902_1675158863.webp" group-title="Địa phương", Truyền hình Quốc phòng Việt Nam
+https://live-diaphuong-aws.vtvdigital.vn/K5rG54dufGaVnrDk9bxECQ/1793815200/aws-dp/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Hà Nội 1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/bdzDQczOL1-HNi1HD_150x902_1675158874.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hà Nội 1
 https://live-diaphuong-aws.vtvdigital.vn/_c-z7w9gboSTDaGuHa6AgA/1793815200/aws-dp/hanoi1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="Truyền hình Hà Nội 2" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/QxWgqaBoV4-HNi2HD_150x902_1675158865.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hà Nội 2
@@ -182,67 +180,67 @@ https://vtvgolive-vtclc.vtvdigital.vn/qlPyN3Je9_0APZW47K89QA/1793806918/media/li
 #EXTINF:-1 tvg-id="Truyền hình Hà Tĩnh" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062922/6yqJDL6bnV-Logo-HATINH-150x90.webp" group-title="Kênh thiết yếu và địa phương", Truyền hình Hà Tĩnh
 https://vtvgolive-ott3.vtvdigital.vn/live/hatinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="89" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230626/ee85e0cb-9878-414d-be21-33eaa4132898.jpg?width=500&width=320" group-title="Trong nước", 89
-https://live-diaphuong-aws.vtvdigital.vn/uiFBVrI2wD0E7wo7mmkARg/1793642400/aws-dp/antv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/CZCDPZbSdG0SIWsfihs_LQ/1793901600/aws-dp/antv/playlist.m3u8
 #EXTINF:-1 tvg-id="103" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230626/dc6d5dca-2e23-4dde-9c61-572df9b2bfcf.jpg?width=500&width=320" group-title="Trong nước", 103
-https://live-diaphuong-aws.vtvdigital.vn/j8-F7RV_TzUfEfjiKaEOfw/1793642400/aws-dp/qpvn/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/zcMXnlGVDw09Z5F9klsYQg/1793901600/aws-dp/qpvn/playlist.m3u8
 #EXTINF:-1 tvg-id="111" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/vQjVbIkOHP-0fd5b632-f8e4-4826-89ed-e616fc718ac6.webp&width=320" group-title="Trong nước", 111
-https://live-diaphuong-aws.vtvdigital.vn/-ilFrjVwEj2Ghnko6fgAaQ/1793642400/aws-dp/hanoi1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/7snmPBOBy_vAzDTWAqu55Q/1793901600/aws-dp/hanoi1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="17" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250630/2025063000/G59NDlU7JQ-803c5edc-7e99-4633-9904-e71b26463575.webp&width=320" group-title="Trong nước", 17
-https://live-diaphuong-aws.vtvdigital.vn/B1Xep41v_-ZU8V2fL9Gaqg/1793642400/aws-dp/hanoi2tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/ynX8mDl1wIMx3GHpUvKZmQ/1793901600/aws-dp/hanoi2tv/playlist.m3u8
 #EXTINF:-1 tvg-id="185" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/37c8bb18-f7f8-4a09-bdfe-3af1d2033766.jpg?width=500&width=320" group-title="Trong nước", 185
-https://live-diaphuong-aws.vtvdigital.vn/ChjspmCn7q-MDI9G23PX3A/1793642400/aws-dp/hungyentv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/1TsR-HEMn-mGglr_TutX-A/1793901600/aws-dp/hungyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="181" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/e0706c25-1f24-4b25-b022-ea72d12e50ae.jpg?width=500&width=320" group-title="Trong nước", 181
-https://live-diaphuong-aws.vtvdigital.vn/6G0tdnEP6_ZUqZLbWXZHvg/1793642400/aws-dp/thanhhoatv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/1UvPy4GAERVLa_kYnoEUAA/1793901600/aws-dp/thanhhoatv/playlist.m3u8
 #EXTINF:-1 tvg-id="121" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/1279e429-6991-4f0c-be21-9dc75e29ca5c.jpg?width=500&width=320" group-title="Trong nước", 121
-https://live-diaphuong-aws.vtvdigital.vn/rBqfLpFDbXWqGddMwOr5Zw/1793642400/aws-dp/ngheantv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/ADbWJErl0vsE0vPa45XqHg/1793901600/aws-dp/ngheantv/playlist.m3u8
 #EXTINF:-1 tvg-id="229" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/121a9fe5-fc3d-4565-bb55-a778c787924a.jpg?width=500&width=320" group-title="Trong nước", 229
-https://live-diaphuong-aws.vtvdigital.vn/nElcKQB2aY7a0VQ2_gF9aw/1793642400/aws-dp/phuthotv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/2O9IbAq3FMN0NZpNW7ozAg/1793901600/aws-dp/phuthotv/playlist.m3u8
 #EXTINF:-1 tvg-id="231" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230615/52a9c209-cb9e-455a-8e1d-b25a9ac34bb2.jpg?width=500&width=320" group-title="Trong nước", 231
-https://vtvgolive-liveh34.vtvdigital.vn/QXGND15zHHVZVj_jk9wXZg/1793622429/hls/ANGIANGTV/index.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/a2v72KwAsM9ZwPQTJBNUOQ/1793854627/hls/ANGIANGTV/index.m3u8
 #EXTINF:-1 tvg-id="183" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/23ce5d79-1d75-4207-b4eb-5639ecb76cb4.jpg?width=500&width=320" group-title="Trong nước", 183
-https://live-diaphuong-aws.vtvdigital.vn/EmM6yeUOuM0riR7WilnO5w/1793642400/aws-dp/ninhbinhtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/xK6Ps1HzEra_JAkkqlc-hA/1793901600/aws-dp/ninhbinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="119" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260821/2026082112/BSvnv06uED-QTV1-Thumbnail.webp&width=320" group-title="Trong nước", 119
-https://live-diaphuong-aws.vtvdigital.vn/ZRJowhLbgMePylleG2iA7g/1793642400/aws-dp/quangninh1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/aWjzmO_WsENiq3SgtHgZag/1793901600/aws-dp/quangninh1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="120" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260821/2026082112/vejNSyw6Sa-QTV3-Thumbnail.webp&width=320" group-title="Trong nước", 120
-https://live-diaphuong-aws.vtvdigital.vn/589X9u7Og-zCqMgH-JKfkw/1793642400/aws-dp/quangninh3tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/ZxrWIp38gPC8Gk1FEGA36A/1793901600/aws-dp/quangninh3tv/playlist.m3u8
 #EXTINF:-1 tvg-id="175" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/RTF9mH0WuG-DNRT1-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 175
-https://live-diaphuong-aws.vtvdigital.vn/f3UlrxAi_MJppUc7fhgSPw/1793642400/aws-dp/danangtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/c4bBclY9fT3KrMmAeABfiA/1793901600/aws-dp/danangtv/playlist.m3u8
 #EXTINF:-1 tvg-id="234" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250805/2025080516/CNUBvVy56R-DONGNAI1-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 234
-https://live-diaphuong-aws.vtvdigital.vn/FCkdfj2322BA_hScdgCAyg/1793642400/aws-dp/dongnai1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/lcys4CQ4R8cUQ2S6__Gwdw/1793901600/aws-dp/dongnai1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="133" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/0afb380f-c9fd-4e2f-b4a9-e47b73c9e76b.jpg?width=500&width=320" group-title="Trong nước", 133
-https://live-diaphuong-aws.vtvdigital.vn/g5fbNJfi-BKWw9Tp-tbGUg/1793642400/aws-dp/dongthaptv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/fLRCKca5nl__YxUy5HJNXA/1793901600/aws-dp/dongthaptv/playlist.m3u8
 #EXTINF:-1 tvg-id="125" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/cbbe2068-8ced-45a2-996c-63d42f531127.jpg?width=500&width=320" group-title="Trong nước", 125
-https://live-diaphuong-aws.vtvdigital.vn/4i6Tpl1JmH44wYg1B8bbgg/1793642400/aws-dp/khanhhoatv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/dWWuvPdx9ICgNJSFSb9d0w/1793901600/aws-dp/khanhhoatv/playlist.m3u8
 #EXTINF:-1 tvg-id="228" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/452199d7-af7a-4b00-b0e7-a0f588b97d83.jpg?width=500&width=320" group-title="Trong nước", 228
-https://live-diaphuong-aws.vtvdigital.vn/UVnEbu4iwy2OOGPHMDIC8A/1793642400/aws-dp/laichautv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/x9ICIVWVTARCVrDbmMOniA/1793901600/aws-dp/laichautv/playlist.m3u8
 #EXTINF:-1 tvg-id="255" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260109/2026010916/36CMQSqvVM-v26.TAYNINH-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 255
-https://live-diaphuong-aws.vtvdigital.vn/Mv5C86AVCdbCmMexFk1img/1793642400/aws-dp/tayninhtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/CTMjjLc6vZ9rKIuTZZ6-XA/1793901600/aws-dp/tayninhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="238" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230622/e03e7dd9-6288-4c48-9dcc-8d2937b947f8.jpg?width=500&width=320" group-title="Trong nước", 238
-https://live-diaphuong-aws.vtvdigital.vn/XaS3z_-vI7VJJx3QCGmkww/1793642400/aws-dp/thainguyentv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/ybnDu-VjLZd__MBolH8TgA/1793901600/aws-dp/thainguyentv/playlist.m3u8
 #EXTINF:-1 tvg-id="127" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250419/2025041918/3ed91d68-6449-41b6-9202-2bad5f7f6e11.webp&width=320" group-title="Trong nước", 127
-https://live-diaphuong-aws.vtvdigital.vn/YG8ma-v75JD9yVTDdi5vWw/1793642400/aws-dp/huetv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/xETZNiEF1yQlVsjzClxOwA/1793901600/aws-dp/huetv/playlist.m3u8
 #EXTINF:-1 tvg-id="218" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/50f75842-6415-4eb4-be1d-4e9f14bb22b0.jpg?width=500&width=320" group-title="Trong nước", 218
-https://live-diaphuong-aws.vtvdigital.vn/_glrDJjd04T8K3-25nqnTA/1793642400/aws-dp/camautv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/qvbcecbkpOedh27tRNzC-g/1793901600/aws-dp/camautv/playlist.m3u8
 #EXTINF:-1 tvg-id="221" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/960c627e-dd6f-45d9-a1dd-37f6190c997b.jpg?width=500&width=320" group-title="Trong nước", 221
 https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 #EXTINF:-1 tvg-id="444" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/cFSPDy430i-02-THUMB-HAIPHONG.webp&width=320" group-title="Trong nước", 444
-https://live-diaphuong-aws.vtvdigital.vn/R071_DNEBmvwxEf2Qj9hUg/1793642400/aws-dp/haiphongtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/dkvvkg91_p0yVPTomuFg1g/1793901600/aws-dp/haiphongtv/playlist.m3u8
 #EXTINF:-1 tvg-id="230" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230610/8600437a-6698-474b-b11f-4397ce3a4965.jpg?width=500&width=320" group-title="Trong nước", 230
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/dienbientv-manifest.m3u8
 #EXTINF:-1 tvg-id="219" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250908/2025090816/RDQv8vVSvN-BTV-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 219
-https://vtvgolive-liveh34.vtvdigital.vn/5jva3n0UIN8UbdbY9GO6Ww/1793622471/hls/BACGIANGTV/index.m3u8
+https://vtvgolive-liveh34.vtvdigital.vn/ARMTqyMtlh2fvEJ6pAzGKw/1793855152/hls/BACGIANGTV/index.m3u8
 #EXTINF:-1 tvg-id="224" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230609/f5bb3ca4-55c0-4e9c-a885-abbc1df27876.jpg?width=500&width=320" group-title="Trong nước", 224
-https://live-diaphuong-aws.vtvdigital.vn/n0tDKe9tHM0Wk2gGITSvrQ/1793642400/aws-dp/lamdongtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/mnVZnU1xbbryIzrOXnJlrA/1793901600/aws-dp/lamdongtv/playlist.m3u8
 #EXTINF:-1 tvg-id="321" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260821/2026082109/kdplVvHl37-THUMBNAIL-KENHLangSon-500x281.webp&width=320" group-title="Trong nước", 321
-https://live-diaphuong-aws.vtvdigital.vn/F-F5XlZc_4xTYgtwnZ6_rg/1793642400/aws-dp/langsontv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/CIPuJd7lloCECjvT6gFBJQ/1793901600/aws-dp/langsontv/playlist.m3u8
 #EXTINF:-1 tvg-id="243" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260205/2026020509/Gt7QRQqd2b-CANTHO1-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 243
-https://live-diaphuong-aws.vtvdigital.vn/R9_Wkmc4DP0mJM1Yad5J8Q/1793642400/aws-dp/cantho1tv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/lOKekxe8977O4QwjEJvL-A/1793901600/aws-dp/cantho1tv/playlist.m3u8
 #EXTINF:-1 tvg-id="10009" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260904/2026090414/U2MdOj7PAO-VINHLONG1-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 10009
-https://vtvgolive-ssaimh.vtvdigital.vn/KKVrozXvQEiWGMs1XzpLIg/1793629682/manifest/dp-vinhlong1tv/master.m3u8
+https://vtvgolive-ssaimh.vtvdigital.vn/k3ZBGT69mANVYt08tM_55w/1793862390/manifest/dp-vinhlong1tv/master.m3u8
 #EXTINF:-1 tvg-id="10068" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260911/2026091104/2b3a19dc22-HTV9-THUMBNAIL-KENH-VTVgo-500x281-1.webp&width=320" group-title="Trong nước", 10068
-https://live-diaphuong-aws.vtvdigital.vn/7USfsIc2WphIExwt4KK64A/1793642400/aws-dp/hcmtv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/nV5iajUOgDHf2vBxsBin4g/1793901600/aws-dp/hcmtv/playlist.m3u8
 #EXTINF:-1 tvg-id="145_nb" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260421/2026042113/phPCrNicoD-QN1-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 145_nb
-https://vtvgolive-vtclc.vtvdigital.vn/emLEz3OOsZubcw5dXRY6iw/1793622487/media/live/12935D096941E2BA0ABCCF41/index.m3u8
+https://vtvgolive-vtclc.vtvdigital.vn/KKwmjvq6TQzDtph4ljeB8Q/1793855204/media/live/12935D096941E2BA0ABCCF41/index.m3u8
 #EXTINF:-1 tvg-id="254" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20250225/a5c18be0-3a0d-4e22-8f70-0a9783439668.jpg?width=500&width=320" group-title="Trong nước", 254
 https://kenhdp-vtvgo.vtvdigital.vn/kenhdp/sonla-manifest.m3u8
 #EXTINF:-1 tvg-id="235" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20230615/bd1a37f4-0477-481d-b856-409097ba146e.jpg?width=500&width=320" group-title="Trong nước", 235
@@ -250,11 +248,11 @@ https://luuchieu.truyenhinhso.vn/media/live/3F95C34B9C32223E48CFA12D/index.m3u8
 #EXTINF:-1 tvg-id="223" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250708/2025070814/BzEXSIakxh-GTV-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 223
 https://vtvgolive-ott3.vtvdigital.vn/live/binhdinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="236" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250710/2025071010/0dlUI4wyHn-QUANGTRI-THUMBNAIL-KENHVTVgo-500x281.webp&width=320" group-title="Trong nước", 236
-https://live-diaphuong-aws.vtvdigital.vn/8R-f3HcgoWXK9-WSCtAq2w/1793642400/aws-dp/quangtritv/playlist.m3u8
+https://live-diaphuong-aws.vtvdigital.vn/EhQGgWrzemBBnvwaM_Fghg/1793901600/aws-dp/quangtritv/playlist.m3u8
 #EXTINF:-1 tvg-id="247" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-images.vtvdigital.vn/images/20231213/1dcdb882-21c3-4cdf-b533-2a40559b383c.jpg?width=500&width=320" group-title="Trong nước", 247
-https://vtvgolive-vtclc.vtvdigital.vn/ZXLg8mLF80U4nXauAjw1fQ/1793622500/media/live/42297BC521EC911B8934699E/index.m3u8
+https://vtvgolive-vtclc.vtvdigital.vn/yiBrG1IJxwztm852pKGUuQ/1793855248/media/live/42297BC521EC911B8934699E/index.m3u8
 #EXTINF:-1 tvg-id="555" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062921/NnWwvFn0Kw-02-THUMB-CAOBANG.webp&width=320" group-title="Trong nước", 555
-https://vtvgolive-vtclc.vtvdigital.vn/rudG75GO3jfd9D8MeQPVFA/1793622502/media/live/FEC4E26FBD78CE924E91BC03/index.m3u8
+https://vtvgolive-vtclc.vtvdigital.vn/WE5BrhWY2_poeK-jxYvHAw/1793855261/media/live/FEC4E26FBD78CE924E91BC03/index.m3u8
 #EXTINF:-1 tvg-id="333" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20250629/2025062922/04eGcv4Obg-02-THUMB-HATINH.webp&width=320" group-title="Trong nước", 333
 https://vtvgolive-ott3.vtvdigital.vn/live/hatinhtv/playlist.m3u8
 #EXTINF:-1 tvg-id="1" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090510/d978b81d5e-thumb-vtv1.webp&width=320" group-title="Trong nước", 1
@@ -281,37 +279,19 @@ https://vtvgolive-vtv02.vtvdigital.vn/jEH3szyZDT3twlABboso0w/1793272098/hls/vtv/
 https://vtvgolive-vtv02.vtvdigital.vn/IzgLBKW-sOnZFEMBGEMDjg/1793272100/hls/vtv/live/vtv9/free/master.m3u8
 #EXTINF:-1 tvg-id="6" tvg-logo="https://thumb.vtvdigital.org/transform?url=https://vtvgo-next-assets.vtvdigital.vn/prod/images/channel/20260905/2026090518/e7a60819e5-thumb-vtv10.webp&width=320" group-title="Trong nước", 6
 https://vtvgolive-vtv02.vtvdigital.vn/p3eswYFad2zyI3hiJyxsVg/1793272103/hls/vtv/live/vtv10/free/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 2" tvg-logo="" group-title="SCTV", SCTV 2
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv2/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 3" tvg-logo="" group-title="SCTV", SCTV 3
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv3/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 4" tvg-logo="" group-title="SCTV", SCTV 4
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv4/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 6" tvg-logo="" group-title="SCTV", SCTV 6
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv6/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv3/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 7" tvg-logo="" group-title="SCTV", SCTV 7
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv7/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 9" tvg-logo="" group-title="SCTV", SCTV 9
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv9/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv7/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 11" tvg-logo="" group-title="SCTV", SCTV 11
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv11/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv11/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 12" tvg-logo="" group-title="SCTV", SCTV 12
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv12/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 13" tvg-logo="" group-title="SCTV", SCTV 13
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv13/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv12/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 14" tvg-logo="" group-title="SCTV", SCTV 14
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv14/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv14/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 15" tvg-logo="" group-title="SCTV", SCTV 15
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv15/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 16" tvg-logo="" group-title="SCTV", SCTV 16
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv16/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv15/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 17" tvg-logo="" group-title="SCTV", SCTV 17
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv17/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 18" tvg-logo="" group-title="SCTV", SCTV 18
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv18/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv17/master.m3u8
 #EXTINF:-1 tvg-id="SCTV 19" tvg-logo="" group-title="SCTV", SCTV 19
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv19/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 20" tvg-logo="" group-title="SCTV", SCTV 20
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv20/master.m3u8
-#EXTINF:-1 tvg-id="SCTV 22" tvg-logo="" group-title="SCTV", SCTV 22
-https://vtvgolive-sctvdrm.vtvdigital.vn/Vu9Jm52C6MvxiXSFSpVdrQ/1793849924/manifest/sctv22/master.m3u8
+https://vtvgolive-sctvdrm.vtvdigital.vn/iDKO1geNJOHz3RKYo_NFqg/1793898477/manifest/sctv19/master.m3u8
